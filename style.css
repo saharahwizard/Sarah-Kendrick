@@ -74,8 +74,18 @@ li {
     align-self: center;
     width: 100%;
 }
-#foot1 {
+.foot1 {
     width: auto;
+    background-color: #e2e7ed;
+    color: #595F67;
+    font-size: 14px;
+    bottom: 0px;
+    height: 40px;
+    font-weight: lighter;
+    text-align: center;
+    line-height: 40px;
+}
+.foot2 {
     background-color: #e2e7ed;
     color: #595F67;
     font-size: 14px;
