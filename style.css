@@ -2,6 +2,7 @@ body {
     font-family: "avenir", sans-serif;
     background-color: #F3F0EC;
     font-size: 18px;
+    text-align: center;
 }
 h1 {
     font-size: 32px;
@@ -42,7 +43,6 @@ h2 {
 }
 #mainimg {
    padding-top: 5%;
-   
 }
 #navbar a {
     color: #E0D9CF;
