@@ -3,16 +3,6 @@ body {
     background-color: #F3F0EC;
     font-size: 18px;
 }
-footer {
-    background-color: #e2e7ed;
-    color: #595F67;
-    font-size: 14px;
-    bottom: 0px;
-    height: 40px;
-    font-weight: lighter;
-    text-align: center;
-    line-height: 40px;
-}
 h1 {
     font-size: 32px;
     font-family: "avenir", sans-serif;
@@ -85,6 +75,13 @@ li {
     width: 100%;
 }
 #foot1 {
+    width: auto;
     background-color: #e2e7ed;
-    
+    color: #595F67;
+    font-size: 14px;
+    bottom: 0px;
+    height: 40px;
+    font-weight: lighter;
+    text-align: center;
+    line-height: 40px;
 }
