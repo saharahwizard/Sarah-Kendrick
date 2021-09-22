@@ -43,6 +43,9 @@ h2 {
 }
 #mainimg {
    padding-top: 5%;
+   max-width: 100%;
+   min-width: 50%;
+   width: 600px;
 }
 #navbar a {
     color: #E0D9CF;
@@ -60,19 +63,11 @@ li {
     list-style-type: none;
     font-size: 15px;
 }
-#logoh {
-    width: 20vh;
-    width: 15vw;
-    max-width: 170px;
-    min-width: 100px;
-    min-height: 40px;
-}
 #imghome {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    align-self: center;
-    width: 100%;
+    display: inline-block;
+    position: relative;
+    text-align: center;
+    
 }
 .foot1 {
     width: auto;
